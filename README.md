@@ -1,0 +1,1 @@
+In this project I was using better cookie management using hashing of passwords in sessions as well as adding better security to the page redirection using decorators to secure end points with a login needed management. 
